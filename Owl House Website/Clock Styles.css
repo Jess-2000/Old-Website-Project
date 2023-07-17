@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+span#date {
+   display: block;
+   position: absolute;
+   top: 30px;
+   left: 25px;   
+   background-color: transparent;
+   font-family: Foxcroft NF Regular, Georgia, serif;
+   color: rgb(255,190,0);
+   text-shadow: 3px 3px rgb(180,20,0);
+   width: 140px;
+   font-size: 20px;
+   line-height: 1em;
+   font-weight: normal;
+}

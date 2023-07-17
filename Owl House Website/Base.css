@@ -1,0 +1,181 @@
+@font-face {
+	font-family: Foxcroft NF Regular;
+	src: url('Foxcroft NF Regular.ttf') format('truetype');
+}
+
+a:link {
+	color: rgb(255,220,0);
+	text-shadow: 3px 3px rgb(180,50,0);
+	text-decoration: none;
+}
+
+a:visited {
+	color: rgb(255,220,0);
+	text-shadow: 3px 3px rgb(180,50,0);
+	text-decoration: none;
+}
+
+a:hover {
+	color: rgb(255,220,0);
+	text-shadow: 3px 3px rgb(180,50,0);
+	text-decoration: underline;
+}
+
+nav ul li {
+  float: left;
+  margin: 10px;
+  text-align: center;
+}
+
+nav ul {
+	list-style-type: none;
+}
+
+nav {
+	font-family: Foxcroft NF Regular, Georgia, serif;
+}
+
+ul {
+	font-family: Georgia, 'Times New Roman', serif;
+	font-size: 22px;
+	color: rgb(255,220,0);
+	list-style-type: none;
+}
+	
+h1 {
+	text-align: center;
+	font-family: Foxcroft NF Regular, Georgia, serif;
+	color: rgb(255,220,0);
+	text-shadow: 3px 3px rgb(180,50,0);
+	font-size: 50px;
+}
+
+h2, h3 {
+	font-family: Foxcroft NF Regular, Georgia, serif;
+	color: rgb(255,220,0);
+	text-shadow: 3px 3px rgb(180,50,0);
+	font-size: 30px;
+}
+
+P {
+	font-family: Georgia, 'Times New Roman', serif;
+	font-size: 25px;
+	color: rgb(255,220,0);
+}
+
+.Characters {
+	font-family: Georgia, 'Times New Roman', serif;
+	font-size: 20px;
+	color: rgb(255,220,0);
+}
+
+figcaption {
+	font-family: Foxcroft NF Regular, Georgia, serif;
+	font-size: 30px;
+	color: rgb(255,220,0);
+	font-style: italic;
+	text-align: center;	
+	text-shadow: 3px 3px rgb(180,50,0);
+}
+
+footer {
+	text-align: center;
+	font-family: Foxcroft NF Regular, Georgia, serif;
+	color: rgb(255,220,0);
+	font-style: italic;
+	text-shadow: 3px 3px rgb(180,50,0);
+	padding-top: 125px;
+} 
+
+@media screen and (min-width: 400px) {
+  body {
+    @font-face {
+	font-family: Foxcroft NF Regular;
+	src: url('Foxcroft NF Regular.ttf') format('truetype');
+}
+
+a:link {
+	color: rgb(255,220,0);
+	text-shadow: 3px 3px rgb(180,50,0);
+	text-decoration: none;
+}
+
+a:visited {
+	color: rgb(255,220,0);
+	text-shadow: 3px 3px rgb(180,50,0);
+	text-decoration: none;
+}
+
+a:hover {
+	color: rgb(255,220,0);
+	text-shadow: 3px 3px rgb(180,50,0);
+	text-decoration: underline;
+}
+
+nav ul li {
+  float: none;
+  margin: 10px;
+  text-align: center;
+}
+
+nav ul {
+	list-style-type: none;
+}
+
+nav {
+	font-family: Foxcroft NF Regular, Georgia, serif;
+}
+
+ul {
+	font-family: Georgia, 'Times New Roman', serif;
+	font-size: 22px;
+	color: rgb(255,220,0);
+	list-style-type: none;
+}
+	
+h1 {
+	text-align: center;
+	font-family: Foxcroft NF Regular, Georgia, serif;
+	color: rgb(255,220,0);
+	text-shadow: 3px 3px rgb(180,50,0);
+	font-size: 50px;
+}
+
+h2, h3 {
+	font-family: Foxcroft NF Regular, Georgia, serif;
+	color: rgb(255,220,0);
+	text-shadow: 3px 3px rgb(180,50,0);
+	font-size: 30px;
+}
+
+P {
+	font-family: Georgia, 'Times New Roman', serif;
+	font-size: 25px;
+	color: rgb(255,220,0);
+}
+
+.Characters {
+	font-family: Georgia, 'Times New Roman', serif;
+	font-size: 20px;
+	color: rgb(255,220,0);
+}
+
+figcaption {
+	font-family: Foxcroft NF Regular, Georgia, serif;
+	font-size: 30px;
+	color: rgb(255,220,0);
+	font-style: italic;
+	text-align: center;	
+	text-shadow: 3px 3px rgb(180,50,0);
+}
+
+footer {
+	text-align: center;
+	font-family: Foxcroft NF Regular, Georgia, serif;
+	color: rgb(255,220,0);
+	font-style: italic;
+	text-shadow: 3px 3px rgb(180,50,0);
+	padding-top: 125px;
+} 
+  }
+}
